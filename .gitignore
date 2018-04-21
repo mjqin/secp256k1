@@ -29,6 +29,7 @@ libtool
 .dirstamp
 *.lo
 *.o
+*.out
 *~
 src/libsecp256k1-config.h
 src/libsecp256k1-config.h.in
